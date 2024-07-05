@@ -4,7 +4,7 @@ import React from 'react'
 const Home = () => {
   return (
     <div>
-     <p> Home</p>
+     <p> Home is here</p>
      <UserButton afterSignOutUrl="/"/>
     </div>
   )
